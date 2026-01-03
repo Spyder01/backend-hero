@@ -13,7 +13,7 @@ No product logic is introduced here.
 
 1. Go to **https://start.spring.io**
 2. Create a new Spring Boot project with:
-   - Project: Maven or Gradle
+   - Project: Maven
    - Language: Java
    - Packaging: Jar
    - Java: LTS version
